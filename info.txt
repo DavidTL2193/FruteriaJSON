@@ -1,0 +1,11 @@
+Proyecto escrito en PHP cuya finalidad es mostrar un catálogo de productos almacenados en un fichero de extension JSON
+1- index.php:
+   Página principal del proyecto que muestra el catálogo con los productos, tiene la opción de agregar un producto nuevo, modificar o eliminar uno ya existente.
+2- añadir.php:
+   Si se selecciona la opción de añadir un nuevo producto, el proyecto te redigirá a añadir.php cuya finalidad es agregar un nuevo producto rellenando los datos en un formulario.
+   Tiene dos opciones: añadir producto, que añadirá un producto al catálogo y cancelar que redigirá a la página principal sin haber añadido ningún producto.
+3- modificar.php:
+   Si se selecciona la opción de modificar un producto existente, el proyecto te redigirá a modificar.php cuya finalidad es modificar un producto cambiando su información en el formulario.
+   Tiene dos opciones: modificar producto, que modificará el producto seleccionado a modificar en el catálogo y cancelar que redigirá a la página principal sin haber hecho ningún cambio.
+4- eliminar.php:
+   Si se selecciona la opción de eliminar un producto existente, el producto seleccionado a eliminar será eliminado del catálogo de productos.
