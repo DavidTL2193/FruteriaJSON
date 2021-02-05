@@ -1,0 +1,81 @@
+{
+    "fruteria": [
+        {
+            "nombre": "Cereza",
+            "tipo": "Fruta",
+            "precio": "5",
+            "color": "Rojo",
+            "imagen": "cereza.gif"
+        },
+        {
+            "nombre": "Kiwi",
+            "tipo": "Fruta",
+            "precio": "4",
+            "color": "Marron-Verde",
+            "imagen": "kiwi.gif"
+        },
+        {
+            "nombre": "Limon",
+            "tipo": "Fruta",
+            "precio": "2",
+            "color": "Amarillo",
+            "imagen": "limon.gif"
+        },
+        {
+            "nombre": "Mandarina",
+            "tipo": "Fruta",
+            "precio": "3",
+            "color": "Naranja",
+            "imagen": "mandarina.gif"
+        },
+        {
+            "nombre": "Mango",
+            "tipo": "Fruta",
+            "precio": "5",
+            "color": "Rojo-Amarillo",
+            "imagen": "mango.gif"
+        },
+        {
+            "nombre": "Manzana",
+            "tipo": "Fruta",
+            "precio": "2",
+            "color": "Verde",
+            "imagen": "manzana.gif"
+        },
+        {
+            "nombre": "Naranja",
+            "tipo": "Fruta",
+            "precio": "2",
+            "color": "Naranja",
+            "imagen": "naranja.gif"
+        },
+        {
+            "nombre": "Pera",
+            "tipo": "Fruta",
+            "precio": "2",
+            "color": "Verde",
+            "imagen": "pera.gif"
+        },
+        {
+            "nombre": "Pi\u00f1a",
+            "tipo": "Fruta",
+            "precio": "4",
+            "color": "Marron-Amarillo",
+            "imagen": "pi\u00f1a.gif"
+        },
+        {
+            "nombre": "platano",
+            "tipo": "Fruta",
+            "precio": "2",
+            "color": "Amarillo",
+            "imagen": "platano.gif"
+        },
+        {
+            "nombre": "Uva",
+            "tipo": "Fruta",
+            "precio": "4",
+            "color": "Morado-Verde",
+            "imagen": "uva.gif"
+        }
+    ]
+}
